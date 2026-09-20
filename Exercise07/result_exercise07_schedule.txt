@@ -1,0 +1,14 @@
+OpenMP Mandelbrot Scheduling Results
+Threads used = 2
+
+Static Scheduling
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Execution time = 8.578982 seconds
+
+Dynamic Scheduling
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Execution time = 5.075004 seconds
+
+Guided Scheduling
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Execution time = 5.394847 seconds

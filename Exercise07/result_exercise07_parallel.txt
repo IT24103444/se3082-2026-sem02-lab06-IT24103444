@@ -1,0 +1,21 @@
+OpenMP Mandelbrot Results
+
+1 Thread
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Threads used = 1
+Execution time = 10.178595 seconds
+
+2 Threads
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Threads used = 2
+Execution time = 8.655047 seconds
+
+3 Threads
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Threads used = 3
+Execution time = 6.160516 seconds
+
+4 Threads
+Area of Mandlebrot set =   1.50928453 +/-   0.00075464
+Threads used = 4
+Execution time = 5.442410 seconds
