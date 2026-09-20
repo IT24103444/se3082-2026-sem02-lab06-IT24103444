@@ -1,0 +1,5 @@
+Array size: 1000000
+Strip size: 1024
+Threads used: 2
+Result verification: PASSED
+Execution time: 0.004202 seconds
